@@ -1,0 +1,2 @@
+RewriteEngine On
+ErrorDocument 404 http://localhost/sistema_drem/error404.php
